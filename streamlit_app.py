@@ -150,7 +150,7 @@ if uploaded:
         ax2.legend()
         st.pyplot(fig2)
 
-=======
+
 import streamlit as st
 import pandas as pd
 import numpy as np
